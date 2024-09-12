@@ -1,0 +1,6 @@
+@EduQuestSystem_HostAddress = http://localhost:5079
+
+GET {{EduQuestSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
